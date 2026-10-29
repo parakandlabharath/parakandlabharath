@@ -2,16 +2,16 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Bharath%20Kumar&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=60&descSize=18" alt="Bharath Kumar — Java Full Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,45:1D4ED8,100:06B6D4&text=Bharath%20Kumar&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20in%20Progress&descAlignY=60&descSize=18" alt="Bharath Kumar developer profile banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Learning+Java+and+Spring+Boot;Building+projects+and+solving+problems;Preparing+for+software+developer+placements" alt="Animated typing text: learning Java and Spring Boot, building projects, preparing for placements" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Learning+Java+%26+Spring+Boot;Turning+ideas+into+projects;Practising+problem+solving;Growing+my+developer+portfolio+one+commit+at+a+time" alt="Animated text: learning Java, building projects, practising problem solving, growing a portfolio" />
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/bharath-kumar-181316296/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:parakandlabharath@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
-  <a href="https://github.com/parakandlabharath"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/bharath-kumar-181316296/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:parakandlabharath@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/parakandlabharath"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -20,70 +20,94 @@
 
 ## 👋 About Me
 
-I'm **Bharath**, an aspiring Java Full Stack Developer working toward entry-level software development roles. I enjoy learning by writing code, solving problems, and improving projects step by step.
+Hi, I'm **Bharath** — an aspiring Java Full Stack Developer building a practical portfolio through consistent learning, coding, and project work.
 
-- 🎯 **Current goal:** Prepare for developer placements and technical interviews.
-- ☕ **Learning:** Java, object-oriented programming, SQL, Spring Boot, Git, System Design, and Generative AI.
-- 🧩 **Practice:** Coding problems, core Java concepts, and hands-on project work.
-- 🤝 **Open to:** Beginner-friendly collaboration, feedback, and opportunities to learn.
+- 💻 **Current focus:** Java, OOP, SQL, Git, and Spring Boot.
+- 🧠 **Exploring:** System Design and Generative AI.
+- 🛠️ **Portfolio goal:** Build useful projects, document them clearly, and keep improving their code.
+- 🌱 **Learning approach:** Hands-on practice, small milestones, and meaningful commits.
+- 🤝 **Open to:** Feedback, collaboration, and connecting with other developers.
 
-## 🛠️ Technologies
+## 🧰 Tech Stack & Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode&perline=5" alt="Java, Spring, MySQL, HTML, CSS, JavaScript, Git, GitHub, and VS Code icons" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode&perline=5" alt="Java, Spring, MySQL, HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
 
 </div>
 
-<p align="center"><i>I'm actively building these skills through study and practice; this list reflects my learning focus, not a claim of expert-level proficiency.</i></p>
+<p align="center"><i>These are my current learning and practice areas; I'm continuing to build depth through hands-on work.</i></p>
 
-## 🚀 Featured Projects
+## 🚀 Portfolio Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧭 Code Quest</h3>
-      <p>A project in my portfolio that I'm continuing to develop and document.</p>
-      <a href="https://github.com/parakandlabharath/Code-Quest">View repository →</a>
+      <p>A project in my portfolio that I'm developing and documenting as part of my programming journey.</p>
+      <a href="https://github.com/parakandlabharath/Code-Quest"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Code Quest repository" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>💸 Online Price Tracking</h3>
       <p>A project based on the online price-tracking concept.</p>
-      <a href="https://github.com/parakandlabharath/Online-price-tracking">View repository →</a>
+      <a href="https://github.com/parakandlabharath/Online-price-tracking"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Online Price Tracking repository" /></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>🤝 Task Collaboration</h3>
       <p>A project exploring task collaboration and organisation.</p>
-      <a href="https://github.com/parakandlabharath/Task-Collaboration">View repository →</a>
+      <a href="https://github.com/parakandlabharath/Task-Collaboration"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Task Collaboration repository" /></a>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Overview
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parakandlabharath&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parakandlabharath&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages in public repositories" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parakandlabharath&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parakandlabharath&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages in public repositories" />
   <br />
-  <img width="70%" src="https://streak-stats.demolab.com?user=parakandlabharath&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=parakandlabharath&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-<p align="center"><sub>Stats and animations are provided by external services, so they may occasionally load slowly or be unavailable.</sub></p>
+<p align="center"><sub>Stats are generated by external services and may take a little time to load.</sub></p>
 
-## 📅 My Placement Prep Routine
+## 🐍 Contribution Snake
 
-- [ ] Practise Java and OOP fundamentals.
-- [ ] Solve one coding problem and review the solution.
-- [ ] Study or revise one SQL, Git, or Spring Boot concept.
-- [ ] Improve a project or its documentation.
-- [ ] Make a meaningful commit with a clear message.
-- [ ] Revise one interview question or system design concept.
+<p align="center">My contribution graph, visualised as a snake animation. The GitHub Actions workflow in this repository is configured to regenerate it daily.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parakandlabharath/parakandlabharath/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parakandlabharath/parakandlabharath/output/github-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/parakandlabharath/parakandlabharath/output/github-snake.svg" width="100%" />
+</picture>
+
+> The snake image will appear after the workflow runs successfully for the first time. You can trigger it manually from the repository's **Actions** tab.
+
+## 📚 My Learning Roadmap
+
+| Focus area | What I'm practising |
+|---|---|
+| **Core Java** | OOP, collections, exceptions, and coding problems |
+| **Backend** | Spring Boot fundamentals and REST APIs |
+| **Database** | SQL queries, joins, and relational database concepts |
+| **Developer workflow** | Git, GitHub, clear commits, and project documentation |
+| **Broader concepts** | System Design and Generative AI fundamentals |
+
+### ✅ Daily progress checklist
+
+Use this checklist as a daily reminder; tick the items in the README editor when you want to track a session.
+
+- [ ] Study one Java or backend concept.
+- [ ] Solve a coding problem and understand the solution.
+- [ ] Improve a project feature, test, or README.
+- [ ] Commit meaningful work with a clear message.
+- [ ] Record one lesson learned or next step.
 
 ## 📬 Let's Connect
 
-I'm happy to connect with fellow learners and developers.
+I'm always happy to learn from other developers, get constructive feedback, and collaborate on projects.
 
 - **LinkedIn:** [Bharath Kumar](https://www.linkedin.com/in/bharath-kumar-181316296/)
 - **Email:** [parakandlabharath@gmail.com](mailto:parakandlabharath@gmail.com)
@@ -91,8 +115,8 @@ I'm happy to connect with fellow learners and developers.
 
 <div align="center">
 
-*Thanks for visiting — I'm learning, building, and improving one step at a time.*
+*Thanks for stopping by — learn consistently, build thoughtfully, and keep shipping.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:1D4ED8,100:0F172A" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:06B6D4,50:1D4ED8,100:0F172A" alt="" />
 
 </div>
