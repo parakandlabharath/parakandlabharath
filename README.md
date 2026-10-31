@@ -43,6 +43,18 @@ Hi, I'm **Bharath** — an aspiring Java Full Stack Developer building a practic
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>👨‍💼 Employee Management System</h3>
+      <p>An original Java console project with employee CRUD operations, input validation, and in-memory storage.</p>
+      <a href="https://github.com/parakandlabharath/Java-Basics-Practice/tree/main/mini-projects/employee-management-system"><img src="https://img.shields.io/badge/View-Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Employee Management System" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 Code Quest</h3>
+      <p>A project in my portfolio that I'm developing and documenting as part of my programming journey.</p>
+      <a href="https://github.com/parakandlabharath/Code-Quest"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Code Quest repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🧭 Code Quest</h3>
       <p>A project in my portfolio that I'm developing and documenting as part of my programming journey.</p>
       <a href="https://github.com/parakandlabharath/Code-Quest"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Code Quest repository" /></a>
@@ -69,10 +81,9 @@ These are planned portfolio projects. I'll add the source code, screenshots, set
 | Project | Planned features | Concepts I'll demonstrate |
 |---|---|---|
 | **Java Interview Preparation Tracker** | Add, search, update, and track interview questions by topic and progress | Java 17, OOP, Collections, Exception Handling, File I/O |
-| **Employee Management System** | Manage employee records with create, view, update, and delete operations | Java, JDBC, MySQL, SQL, CRUD |
 | **Job Application Tracker API** | Track applications, company details, job status, and interview dates through REST endpoints | Spring Boot, REST API, MySQL, validation, exception handling |
 
-> **Project status:** Planned — these projects are learning goals, not completed applications. I'll update this section as I build and test them.
+> **Project status:** The Employee Management System has an initial Java console version in my Java practice repository. The other projects are planned learning goals; I'll update this section as I build and test them.
 
 ## 📈 GitHub Activity
 
