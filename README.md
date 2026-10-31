@@ -77,13 +77,10 @@ These are planned portfolio projects. I'll add the source code, screenshots, set
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parakandlabharath&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parakandlabharath&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages in public repositories" />
-  <br />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parakandlabharath&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img src="https://ghchart.rshah.org/0F172A/parakandlabharath" alt="GitHub contribution calendar for Bharath" width="100%" />
 </div>
 
-<p align="center"><sub>A visual overview of public GitHub activity. Use the daily tracker below to record consistent progress.</sub></p>
+<p align="center"><sub>Contribution calendar image generated from my public GitHub activity. If the image does not load, <a href="https://github.com/parakandlabharath">view my GitHub profile</a> to see the native contribution calendar.</sub></p>
 
 ### 📅 Daily Tracker
 
