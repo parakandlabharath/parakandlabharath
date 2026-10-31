@@ -62,6 +62,18 @@ Hi, I'm **Bharath** — an aspiring Java Full Stack Developer building a practic
   </tr>
 </table>
 
+## 🧪 Projects I'm Building Next
+
+These are planned portfolio projects. I'll add the source code, screenshots, setup instructions, and feature explanations as each project becomes functional.
+
+| Project | Planned features | Concepts I'll demonstrate |
+|---|---|---|
+| **Java Interview Preparation Tracker** | Add, search, update, and track interview questions by topic and progress | Java 17, OOP, Collections, Exception Handling, File I/O |
+| **Employee Management System** | Manage employee records with create, view, update, and delete operations | Java, JDBC, MySQL, SQL, CRUD |
+| **Job Application Tracker API** | Track applications, company details, job status, and interview dates through REST endpoints | Spring Boot, REST API, MySQL, validation, exception handling |
+
+> **Project status:** Planned — these projects are learning goals, not completed applications. I'll update this section as I build and test them.
+
 ## 📈 GitHub Activity
 
 <div align="center">
