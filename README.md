@@ -67,9 +67,11 @@ Hi, I'm **Bharath** — an aspiring Java Full Stack Developer building a practic
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=parakandlabharath&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parakandlabharath&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages in public repositories" />
+  <br />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parakandlabharath&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </div>
 
-<p align="center"><sub>Your contribution calendar is available directly on your GitHub profile. Stats may take a little time to update.</sub></p>
+<p align="center"><sub>A simple view of recent public GitHub activity. The contribution calendar is also available on my GitHub profile.</sub></p>
 
 ## 📚 My Learning Roadmap
 
