@@ -71,7 +71,19 @@ Hi, I'm **Bharath** — an aspiring Java Full Stack Developer building a practic
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parakandlabharath&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </div>
 
-<p align="center"><sub>A simple view of recent public GitHub activity. The contribution calendar is also available on my GitHub profile.</sub></p>
+<p align="center"><sub>A visual overview of public GitHub activity. Use the daily tracker below to record consistent progress.</sub></p>
+
+### 📅 Daily Tracker
+
+| Daily task | Done |
+|---|:---:|
+| Study one Java / Spring Boot concept | [ ] |
+| Solve at least one coding problem | [ ] |
+| Practise SQL or revise interview questions | [ ] |
+| Work on a project and push a meaningful commit | [ ] |
+| Write down one learning and tomorrow's goal | [ ] |
+
+<p align="center"><sub>At the end of each day, edit this checklist and change <code>[ ]</code> to <code>[x]</code> for completed tasks. GitHub's contribution calendar records qualifying activity automatically.</sub></p>
 
 ## 📚 My Learning Roadmap
 
@@ -82,16 +94,6 @@ Hi, I'm **Bharath** — an aspiring Java Full Stack Developer building a practic
 | **Database** | SQL queries, joins, and relational database concepts |
 | **Developer workflow** | Git, GitHub, clear commits, and project documentation |
 | **Broader concepts** | System Design and Generative AI fundamentals |
-
-### ✅ Daily progress checklist
-
-Use this checklist as a daily reminder; tick the items in the README editor when you want to track a session.
-
-- [ ] Study one Java or backend concept.
-- [ ] Solve a coding problem and understand the solution.
-- [ ] Improve a project feature, test, or README.
-- [ ] Commit meaningful work with a clear message.
-- [ ] Record one lesson learned or next step.
 
 ## 📬 Let's Connect
 
