@@ -77,7 +77,7 @@ These are planned portfolio projects. I'll add the source code, screenshots, set
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/0F172A/parakandlabharath" alt="GitHub contribution calendar for Bharath" width="100%" />
+  <img src="https://ghchart.rshah.org/06B6D4/parakandlabharath" alt="GitHub contribution calendar for Bharath" width="100%" />
 </div>
 
 <p align="center"><sub>Contribution calendar image generated from my public GitHub activity. If the image does not load, <a href="https://github.com/parakandlabharath">view my GitHub profile</a> to see the native contribution calendar.</sub></p>
