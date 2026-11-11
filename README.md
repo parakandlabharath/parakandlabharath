@@ -39,7 +39,12 @@ I'm a Computer Science graduate focused on building my skills in Java developmen
 
 ## Featured Projects
 
-### 1. Employee Management System
+### 1. Java Basics Practice
+[View repository](https://github.com/parakandlabharath/Java-Basics-Practice)
+
+A collection of Java exercises covering fundamentals, OOP, packages, collections, and interview practice.
+
+### 2. Employee Management System
 [View source and project guide](https://github.com/parakandlabharath/Java-Basics-Practice/tree/main/projects/employee-management)
 
 A Java 17 console application for managing employee records.
@@ -48,7 +53,7 @@ A Java 17 console application for managing employee records.
 - Uses classes, constructors, encapsulation, ArrayList, and input validation
 - Stores records in memory; data resets when the program exits
 
-### 2. Java Interface Addition
+### 3. Java Interface Addition
 [View repository](https://github.com/parakandlabharath/Java-Interface-Addition)
 
 A small Java example demonstrating an `Addition` interface with `int` and `long` implementations.
@@ -56,18 +61,15 @@ A small Java example demonstrating an `Addition` interface with `int` and `long`
 - Demonstrates interfaces and implementation classes
 - Shows how code can call different implementations through an interface
 
-### 3. Java Basics Practice
-[View repository](https://github.com/parakandlabharath/Java-Basics-Practice)
-
-A collection of Java exercises covering fundamentals, OOP, packages, collections, and interview practice.
-
 ## Projects in Progress
 
 These repositories currently contain project descriptions and/or workflow documentation. Their application implementations are not yet available on the default branch, so I do not present them as completed applications.
 
-- **[Code Quest](https://github.com/parakandlabharath/Code-Quest)** — planned Kanban-style team task management application.
-- **[Online Price Tracker](https://github.com/parakandlabharath/Online-price-tracking)** — planned application for recording product prices and tracking price changes.
-- **[Task Collaboration](https://github.com/parakandlabharath/Task-Collaboration)** — early project concept for organising shared team tasks.
+**Planned build order**
+
+1. **[Code Quest](https://github.com/parakandlabharath/Code-Quest)** — build the Kanban-style team task management application with Java and Spring Boot.
+2. **[Online Price Tracker](https://github.com/parakandlabharath/Online-price-tracking)** — build the application for recording product prices and tracking price changes.
+3. **[Task Collaboration](https://github.com/parakandlabharath/Task-Collaboration)** — review the scope, then decide whether to build it or merge its useful ideas into Code Quest.
 
 ## Learning Roadmap
 
