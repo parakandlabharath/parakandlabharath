@@ -80,6 +80,25 @@ I'm at the stage where I value **understanding over shortcuts**: I practise conc
 | Problem solving | Arrays, strings, collections and DSA patterns |
 | Engineering habits | Git, testing, readable code and documentation |
 
+## Learning repositories
+
+I keep focused study notes and interview practice in separate repositories so the concepts are easy to follow and revisit.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔧 Git & GitHub Learning</h3>
+      <p>Version control fundamentals, commits and pushes, branches, merging, conflicts, stash, rebase, pull requests and GitHub Actions.</p>
+      <a href="https://github.com/parakandlabharath/Git-Learning">Explore Git-Learning →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ System Design Learning</h3>
+      <p>Scalability, load balancing, auto scaling, caching, replication, failover, sharding, backup and recovery, with practical interview examples.</p>
+      <a href="https://github.com/parakandlabharath/System-Design-Learning">Explore System-Design-Learning →</a>
+    </td>
+  </tr>
+</table>
+
 ## GitHub activity
 
 <div align="center">
