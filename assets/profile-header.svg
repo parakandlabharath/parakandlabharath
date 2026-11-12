@@ -1,11 +1,64 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Bharath Kumar — Java Developer</title>
-<desc id="desc">A minimal navy banner with the name Bharath Kumar and Java Backend Developer subtitle.</desc>
-<rect width="1200" height="300" rx="18" fill="#101b2a"/>
-<rect x="0" y="0" width="8" height="300" rx="4" fill="#55c9b5"/>
+<title id="title">Bharath Kumar — Java Backend Developer</title>
+<desc id="desc">A modern developer-style banner with a deep blue gradient, subtle technical grid, Java code panel and clean typography.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0b1424"/>
+    <stop offset="55%" stop-color="#142943"/>
+    <stop offset="100%" stop-color="#102033"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
+    <stop offset="100%" stop-color="#2dd4bf" stop-opacity=".03"/>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#9bb8d5" stroke-opacity=".07" stroke-width="1"/>
+  </pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#020817" flood-opacity=".35"/>
+  </filter>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<circle cx="1050" cy="38" r="190" fill="url(#glow)"/>
+<path d="M0 260 C210 210 320 330 520 270 S850 220 1200 265" fill="none" stroke="#38bdf8" stroke-opacity=".12" stroke-width="2"/>
 <g font-family="Arial, Helvetica, sans-serif">
-  <text x="88" y="124" fill="#f5f7fa" font-size="54" font-weight="700">Bharath Kumar</text>
-  <text x="91" y="174" fill="#b9c7d6" font-size="24">Java Developer  ·  Backend Engineering</text>
-  <rect x="91" y="208" width="64" height="4" rx="2" fill="#55c9b5"/>
+  <text x="72" y="112" fill="#f8fafc" font-size="49" font-weight="700" letter-spacing="-.8">Bharath Kumar</text>
+  <rect x="74" y="137" width="4" height="27" rx="2" fill="#2dd4bf"/>
+  <text x="91" y="157" fill="#c6d5e5" font-size="23" font-weight="500">Java Developer</text>
+  <text x="74" y="201" fill="#8fa9c3" font-size="16" letter-spacing="2.2">BACKEND ENGINEERING  ·  BUILDING WITH JAVA</text>
+  <g transform="translate(74 231)">
+    <rect width="88" height="29" rx="14.5" fill="#173a50" stroke="#2dd4bf" stroke-opacity=".45"/>
+    <text x="44" y="19" text-anchor="middle" fill="#9ce8dd" font-size="12" font-weight="600">CORE JAVA</text>
+    <rect x="98" width="70" height="29" rx="14.5" fill="#173a50" stroke="#38bdf8" stroke-opacity=".4"/>
+    <text x="133" y="19" text-anchor="middle" fill="#a9ddf8" font-size="12" font-weight="600">SPRING</text>
+    <rect x="178" width="58" height="29" rx="14.5" fill="#173a50" stroke="#38bdf8" stroke-opacity=".4"/>
+    <text x="207" y="19" text-anchor="middle" fill="#a9ddf8" font-size="12" font-weight="600">SQL</text>
+  </g>
 </g>
+<g transform="translate(700 42)" filter="url(#shadow)">
+  <rect width="425" height="216" rx="13" fill="#0a1321" fill-opacity=".92" stroke="#6b8ba8" stroke-opacity=".35"/>
+  <path d="M0 42H425" stroke="#6b8ba8" stroke-opacity=".25"/>
+  <circle cx="20" cy="21" r="4" fill="#fb7185"/>
+  <circle cx="36" cy="21" r="4" fill="#fbbf24"/>
+  <circle cx="52" cy="21" r="4" fill="#34d399"/>
+  <text x="75" y="25" fill="#8199b2" font-family="Arial, Helvetica, sans-serif" font-size="11">HelloBackend.java</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="15">
+    <text x="24" y="76" fill="#60758c">01</text>
+    <text x="57" y="76" fill="#c792ea">public class</text>
+    <text x="171" y="76" fill="#f8fafc">HelloBackend {</text>
+    <text x="24" y="108" fill="#60758c">02</text>
+    <text x="57" y="108" fill="#c792ea">  public static void</text>
+    <text x="235" y="108" fill="#82aaff"> build</text>
+    <text x="283" y="108" fill="#f8fafc">() {</text>
+    <text x="24" y="140" fill="#60758c">03</text>
+    <text x="57" y="140" fill="#c792ea">    return</text>
+    <text x="139" y="140" fill="#c3e88d"> "Ideas into code";</text>
+    <text x="24" y="172" fill="#60758c">04</text>
+    <text x="57" y="172" fill="#f8fafc">  }</text>
+    <text x="24" y="198" fill="#60758c">05</text>
+    <text x="57" y="198" fill="#f8fafc">}</text>
+  </g>
+</g>
+<text x="1150" y="278" text-anchor="end" fill="#7794ad" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">LEARN  ·  BUILD  ·  IMPROVE</text>
 </svg>
