@@ -1,102 +1,105 @@
-<!-- Profile README | Bharath Kumar -->
+<!-- GitHub profile overview for Bharath Kumar -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Bharath%20Kumar&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Java%20Developer%20%7C%20Building%20with%20Java%20and%20Spring%20Boot&descAlignY=60&descSize=16" alt="Bharath Kumar profile banner" />
+# Bharath Kumar
+
+### Java Developer | Backend & Full-Stack Development
+
+Building practical software, strengthening engineering fundamentals, and learning by shipping projects.
 
 <p>
-  <a href="https://www.linkedin.com/in/bharath-kumar-181316296/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:parakandlabharath@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/parakandlabharath"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/bharath-kumar-181316296/">LinkedIn</a> ·
+  <a href="mailto:parakandlabharath@gmail.com">Email</a> ·
+  <a href="https://github.com/parakandlabharath">GitHub</a>
 </p>
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-I'm a Computer Science graduate focused on building my skills in Java development and backend application development. I learn by writing code, building small projects, and improving them step by step.
+Computer Science graduate focused on Java development and backend engineering. I enjoy turning concepts into small, understandable applications and improving them through clean code, testing, and documentation.
 
-- 🎓 B.Tech in Computer Science and Engineering — K K R & K S R Institute of Technology and Sciences, 2026
-- 💻 Current focus: Core Java, OOP, SQL, Spring Boot, and REST APIs
-- 🧠 Learning: System Design, data structures, and problem solving
-- 🤝 Interested in entry-level Java Developer and Full Stack Developer opportunities
+- **Education:** B.Tech, Computer Science and Engineering — K K R & K S R Institute of Technology and Sciences (2026)
+- **Current focus:** Core Java, Spring Boot, SQL, REST APIs, and problem solving
+- **Engineering interests:** Object-oriented design, databases, system design, and reliable application workflows
+- **Open to:** Entry-level Java Developer and Full-Stack Developer opportunities
 
-## Skills
+## Technology
 
-**Programming:** Java, JavaScript, C++
-
-**Backend learning:** Spring Boot, REST APIs, Spring Data JPA
-
-**Frontend:** HTML, CSS, JavaScript
-
-**Database:** SQL, MySQL
-
-**Tools:** Git, GitHub, VS Code, Eclipse
-
-> Skills listed here include technologies I am actively learning and practising. Project-specific technologies and implementation status are identified separately below.
-
-## Featured Projects
-
-### 1. Java Basics Practice
-[View repository](https://github.com/parakandlabharath/Java-Basics-Practice)
-
-A collection of Java exercises covering fundamentals, OOP, packages, collections, and interview practice.
-
-### 2. Employee Management System
-[View source and project guide](https://github.com/parakandlabharath/Java-Basics-Practice/tree/main/projects/employee-management)
-
-A Java 17 console application for managing employee records.
-
-- Add, view, search, update, and delete employees
-- Uses classes, constructors, encapsulation, ArrayList, and input validation
-- Stores records in memory; data resets when the program exits
-
-### 3. Java Interface Addition
-[View repository](https://github.com/parakandlabharath/Java-Interface-Addition)
-
-A small Java example demonstrating an `Addition` interface with `int` and `long` implementations.
-
-- Demonstrates interfaces and implementation classes
-- Shows how code can call different implementations through an interface
-
-## Projects in Progress
-
-These repositories currently contain project descriptions and/or workflow documentation. Their application implementations are not yet available on the default branch, so I do not present them as completed applications.
-
-**Planned build order**
-
-1. **[Code Quest](https://github.com/parakandlabharath/Code-Quest)** — build the Kanban-style team task management application with Java and Spring Boot.
-2. **[Online Price Tracker](https://github.com/parakandlabharath/Online-price-tracking)** — build the application for recording product prices and tracking price changes.
-3. **[Task Collaboration](https://github.com/parakandlabharath/Task-Collaboration)** — review the scope, then decide whether to build it or merge its useful ideas into Code Quest.
-
-## Learning Roadmap
-
-| Area | Current focus |
+| Area | Tools and concepts |
 |---|---|
-| Core Java | OOP, constructors, collections, exceptions, and coding practice |
-| Backend | Spring Boot, layered architecture, and REST APIs |
-| Database | SQL, joins, constraints, and relational design |
-| Engineering | Git, GitHub, testing, and clean project documentation |
-| System Design | Scalability, availability, caching, and database fundamentals |
+| Languages | Java, JavaScript, C++ |
+| Backend | Spring Boot, REST APIs, Spring Data JPA |
+| Frontend | HTML, CSS, JavaScript |
+| Database | SQL, MySQL |
+| Fundamentals | OOP, Collections, Exception Handling, DSA |
+| Tools | Git, GitHub Actions, VS Code, Eclipse |
 
-## GitHub Activity
+*I distinguish technologies I am learning from features verified in each project. Please use the project documentation for implementation status.*
+
+## Selected work
+
+### [Mana Suraksha](https://github.com/parakandlabharath/Mana-Suraksha)
+**Digital-fraud awareness and protection prototype**
+
+A Java and Spring Boot project exploring explainable checks for suspicious SMS text, URL structure, and phone-number formats. Includes a starter API and web interface. This is an early prototype, not a production fraud-detection service.
+
+### [Java Basics Practice](https://github.com/parakandlabharath/Java-Basics-Practice)
+**Core Java learning and interview practice**
+
+Organized examples covering Java fundamentals, OOP, packages, collections, and a console-based Employee Management mini-project. Includes a Java 17 GitHub Actions compilation check.
+
+### [Online Price Tracker](https://github.com/parakandlabharath/Online-price-tracking)
+**Price monitoring application — planning stage**
+
+Project space for tracking product prices, target prices, and price history. Application source and verified run instructions are still to be added.
+
+### [Code Quest](https://github.com/parakandlabharath/Code-Quest)
+**Team task management — planning stage**
+
+A planned Kanban-style application for organizing tasks across To Do, In Progress, and Done. Implementation status is documented in the repository.
+
+### [Java Interface Addition](https://github.com/parakandlabharath/Java-Interface-Addition)
+**Small Java interface demonstration**
+
+Shows an Addition interface with separate integer and long implementations.
+
+## How I build
+
+1. Understand the requirement and define a small first version.
+2. Design the classes, responsibilities, and data flow.
+3. Implement incrementally and validate inputs.
+4. Test important behavior and handle errors.
+5. Document setup, decisions, and limitations.
+6. Use Git commits to record meaningful progress.
+
+## Current learning path
+
+- [x] Java fundamentals and hands-on examples
+- [x] OOP, interfaces, and collections practice
+- [ ] Strengthen Core Java interview fundamentals
+- [ ] SQL fundamentals through advanced queries
+- [ ] Build REST APIs with Spring Boot
+- [ ] Add persistence, validation, and automated tests to projects
+- [ ] Practise DSA and system design consistently
+
+## Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/06B6D4/parakandlabharath" alt="Public GitHub contribution calendar" width="100%" />
+
+![GitHub contribution chart](https://ghchart.rshah.org/2563eb/parakandlabharath)
+
 </div>
 
-<p align="center"><sub>For the most accurate activity view, visit the contribution calendar on my GitHub profile.</sub></p>
+<sub>Contribution activity is supplied by GitHub's public contribution history. Visit the profile for the canonical activity calendar.</sub>
 
-## Connect
-
-- **LinkedIn:** [Bharath Kumar](https://www.linkedin.com/in/bharath-kumar-181316296/)
-- **Email:** [parakandlabharath@gmail.com](mailto:parakandlabharath@gmail.com)
-- **GitHub:** [@parakandlabharath](https://github.com/parakandlabharath)
+---
 
 <div align="center">
 
-*Learning consistently. Building practically. Improving every day.*
+**Learn deliberately. Build honestly. Improve continuously.**
 
 </div>
