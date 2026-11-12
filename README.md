@@ -74,11 +74,13 @@ I'm at the stage where I value **understanding over shortcuts**: I practise conc
 
 | Area | What I'm practising |
 |:--|:--|
-| Core Java | OOP, constructors, exceptions, collections, threads |
+| Core Java | OOP, constructors, exceptions, collections, interfaces and threads |
 | SQL | Queries, joins, constraints and schema design |
 | Spring Boot | REST APIs, validation and layered architecture |
 | Problem solving | Arrays, strings, collections and DSA patterns |
-| Engineering habits | Git, testing, readable code and documentation |
+| System Design | Scalability, load balancing, caching, replication, failover and recovery |
+| Git & GitHub | Commits, push/pull, branching, stash, rebase, pull requests and Actions |
+| Engineering habits | Testing, readable code, documentation and explaining design decisions |
 
 ## Learning repositories
 
