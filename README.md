@@ -93,18 +93,60 @@ I'm at the stage where I value **understanding over shortcuts**: I practise conc
 
 ## How I build
 
-<div align="center">
-  **UNDERSTAND** → **DESIGN** → **IMPLEMENT** → **TEST** → **DOCUMENT** → **IMPROVE**
-</div>
+I follow a simple engineering loop: understand the problem first, build with intent, and improve through feedback.
 
-I aim to keep projects understandable and honest: working features are identified clearly, planned features are labelled as planned, and code should be explainable rather than just present.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub>01 / THINK</sub><br/>
+      <b>Understand</b><br/>
+      <sub>Clarify the problem, requirements and edge cases.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <sub>02 / PLAN</sub><br/>
+      <b>Design</b><br/>
+      <sub>Break the solution into clear, manageable parts.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <sub>03 / BUILD</sub><br/>
+      <b>Implement</b><br/>
+      <sub>Write focused, readable code.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <sub>04 / VERIFY</sub><br/>
+      <b>Test</b><br/>
+      <sub>Check expected behaviour and edge cases.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <sub>05 / SHARE</sub><br/>
+      <b>Document</b><br/>
+      <sub>Explain setup, decisions and limitations.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <sub>06 / REFINE</sub><br/>
+      <b>Improve</b><br/>
+      <sub>Use feedback to make the next version better.</sub>
+    </td>
+  </tr>
+</table>
+
+> **Built with clarity. Improved with feedback.**
+>
+> I keep project status transparent: implemented features are separated from planned work, limitations are stated honestly, and every part of the code should be something I can explain.
 
 ## Let's connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bharath-kumar-181316296/">LinkedIn</a> ·
-  <a href="mailto:parakandlabharath@gmail.com">parakandlabharath@gmail.com</a>
+  <a href="https://www.linkedin.com/in/bharath-kumar-181316296/"><b>LinkedIn</b></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:parakandlabharath@gmail.com"><b>Email</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/parakandlabharath?tab=repositories"><b>GitHub Repositories</b></a>
 
   <br/><br/>
+  <sub>Java · Backend Engineering · Continuous Learning</sub>
+  <br/>
   <i>Building strong fundamentals, one practical step at a time.</i>
 </div>
