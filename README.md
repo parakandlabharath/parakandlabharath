@@ -138,15 +138,30 @@ I follow a simple engineering loop: understand the problem first, build with int
 
 ## Let's connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bharath-kumar-181316296/"><b>LinkedIn</b></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:parakandlabharath@gmail.com"><b>Email</b></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/parakandlabharath?tab=repositories"><b>GitHub Repositories</b></a>
+I'm open to connecting with developers, sharing ideas, and exploring entry-level Java and backend opportunities.
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>💼 LinkedIn</b><br/>
+      <sub>Professional updates & conversations</sub><br/><br/>
+      <a href="https://www.linkedin.com/in/bharath-kumar-181316296/">Connect with me →</a>
+    </td>
+    <td align="center" width="33%">
+      <b>✉️ Email</b><br/>
+      <sub>Questions, feedback & opportunities</sub><br/><br/>
+      <a href="mailto:parakandlabharath@gmail.com">Send an email →</a>
+    </td>
+    <td align="center" width="33%">
+      <b>⌘ GitHub</b><br/>
+      <sub>Code, projects & learning progress</sub><br/><br/>
+      <a href="https://github.com/parakandlabharath?tab=repositories">Explore my work →</a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <sub>JAVA · BACKEND ENGINEERING · CONTINUOUS LEARNING</sub>
   <br/><br/>
-  <sub>Java · Backend Engineering · Continuous Learning</sub>
-  <br/>
   <i>Building strong fundamentals, one practical step at a time.</i>
 </div>
