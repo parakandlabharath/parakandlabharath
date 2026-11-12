@@ -1,106 +1,136 @@
-<!-- Profile overview: Bharath Kumar -->
+<!-- Bharath Kumar | Developer profile -->
 <div align="center">
 
-<img src="assets/profile-header.svg" alt="Bharath Kumar — Java Developer and Backend Engineering" width="100%" />
+<img src="assets/profile-header.svg" alt="Bharath Kumar — Java and Backend Developer" width="100%" />
 
-### Java Developer · Backend Engineering · Full-Stack Foundations
+### Java Developer · Backend Engineering
 
-I turn concepts into small, understandable software — then improve it with **clear design, careful testing, and honest documentation**.
+**I like understanding how things work — then building them one clear step at a time.**
 
-[LinkedIn](https://www.linkedin.com/in/bharath-kumar-181316296/) · [Email](mailto:parakandlabharath@gmail.com) · [GitHub](https://github.com/parakandlabharath)
+[LinkedIn](https://www.linkedin.com/in/bharath-kumar-181316296/) &nbsp;·&nbsp; [Email](mailto:parakandlabharath@gmail.com) &nbsp;·&nbsp; [Repositories](https://github.com/parakandlabharath?tab=repositories)
 
 </div>
 
 ---
 
-## A little about me
+## The developer behind the code
 
-I'm a Computer Science graduate focused on Java and backend development. I enjoy understanding how an application works end to end: from the problem and data model to APIs, persistence, and the user experience.
+I'm a Computer Science graduate working toward a career in Java development. My focus is on building a strong foundation in Core Java and backend engineering, and applying what I learn through practical projects.
 
-- **Education:** B.Tech in Computer Science and Engineering — K K R & K S R Institute of Technology and Sciences, 2026
-- **Currently strengthening:** Core Java, SQL, Spring Boot, REST API development, and problem solving
-- **Interested in:** Object-oriented design, databases, system design, and dependable software
-- **Career goal:** Entry-level Java Developer / Full-Stack Developer
+I care about code that is understandable, features that solve a real problem, and project documentation that explains both what works and what still needs work.
 
-## My engineering toolkit
-
-| Focus | Technologies and concepts |
+| | |
 |---|---|
-| Languages | Java · JavaScript · C++ |
-| Backend | Spring Boot · REST APIs · Spring Data JPA |
-| Frontend | HTML · CSS · JavaScript |
-| Data | SQL · MySQL |
-| Core concepts | OOP · Collections · Exception Handling · DSA |
-| Workflow | Git · GitHub · GitHub Actions · VS Code · Eclipse |
+| **Education** | B.Tech, Computer Science & Engineering · K K R & K S R Institute of Technology and Sciences · 2026 |
+| **Current direction** | Core Java → SQL → Spring Boot → REST APIs |
+| **Career interest** | Entry-level Java Developer / Full-Stack Developer |
+| **Engineering interests** | OOP, data modelling, API design, testing, system design |
 
-<sub>This is my learning and working toolkit, not a claim that every technology is used in every project.</sub>
-
-## Featured work
-
-> I prefer showing the real stage of a project over calling every repository “完成” or production-ready. Each project README describes what exists and what is still planned.
-
-### 01 · [Mana Suraksha](https://github.com/parakandlabharath/Mana-Suraksha)
-**Digital-fraud awareness and protection prototype** · Java / Spring Boot
-
-Explores explainable checks for suspicious SMS text, URL structure, and phone-number formats. The repository includes a starter API and web interface. It is an early prototype — not a production fraud-detection service.
-
-### 02 · [Java Basics Practice](https://github.com/parakandlabharath/Java-Basics-Practice)
-**Core Java learning lab** · Java 17
-
-Organized examples for Java fundamentals, OOP, packages, and collections, plus a console-based Employee Management mini-project and a Java 17 compilation workflow.
-
-### 03 · [Java Interface Addition](https://github.com/parakandlabharath/Java-Interface-Addition)
-**Small, focused Java exercise**
-
-Demonstrates an `Addition` interface with separate integer and long implementations.
-
-### 04 · [Online Price Tracker](https://github.com/parakandlabharath/Online-price-tracking)
-**Price monitoring concept** · Planning stage
-
-A project space for tracking product prices, target prices, and price history. Application source and verified run instructions are still to be added.
-
-### 05 · [Code Quest](https://github.com/parakandlabharath/Code-Quest)
-**Team task-management concept** · Planning stage
-
-A planned Kanban-style workflow for organizing work across To Do, In Progress, and Done. See the repository for its current scope.
-
-## How I approach a feature
-
-I use a repeatable build loop to keep projects understandable and small enough to validate:
-
-```mermaid
-flowchart LR
-    A[Understand the problem] --> B[Define a small scope]
-    B --> C[Model classes and data]
-    C --> D[Implement in small steps]
-    D --> E[Test expected and edge cases]
-    E --> F[Document decisions and limits]
-    F --> G[Commit a clear change]
-    G -. feedback .-> A
-```
-
-**My rule:** make the smallest useful version work before adding complexity.
-
-## What I'm working to improve
-
-- [x] Practise Java fundamentals with small programs
-- [x] Work with OOP, interfaces, and collections
-- [ ] Build stronger Core Java interview fundamentals
-- [ ] Progress from SQL basics to advanced queries
-- [ ] Build and test REST APIs with Spring Boot
-- [ ] Add persistence, validation, and automated tests to project work
-- [ ] Practise DSA and system design consistently
-
-## Find me
-
-- **LinkedIn:** [bharath-kumar-181316296](https://www.linkedin.com/in/bharath-kumar-181316296/)
-- **Email:** [parakandlabharath@gmail.com](mailto:parakandlabharath@gmail.com)
-- **GitHub:** [@parakandlabharath](https://github.com/parakandlabharath)
+## My toolbox
 
 <div align="center">
 
+**LANGUAGES**
+
+Java&nbsp; · &nbsp;JavaScript&nbsp; · &nbsp;C++
+
+**BACKEND & WEB**
+
+Spring Boot&nbsp; · &nbsp;REST APIs&nbsp; · &nbsp;Spring Data JPA&nbsp; · &nbsp;HTML&nbsp; · &nbsp;CSS
+
+**DATA & FUNDAMENTALS**
+
+SQL&nbsp; · &nbsp;MySQL&nbsp; · &nbsp;OOP&nbsp; · &nbsp;Collections&nbsp; · &nbsp;Exception Handling&nbsp; · &nbsp;DSA
+
+**DAILY TOOLS**
+
+Git&nbsp; · &nbsp;GitHub&nbsp; · &nbsp;GitHub Actions&nbsp; · &nbsp;VS Code&nbsp; · &nbsp;Eclipse
+
+</div>
+
+<sub>These are technologies and concepts in my learning/work toolkit; individual repositories document their actual implementation.</sub>
+
+## Selected work
+
+The projects below show different parts of my learning journey. I keep their status explicit so visitors can distinguish working code from ideas still being developed.
+
+### 01 / Mana Suraksha
+**A digital-fraud awareness prototype**
+
+[Repository: Mana-Suraksha](https://github.com/parakandlabharath/Mana-Suraksha) · Java · Spring Boot
+
+A project exploring explainable checks for suspicious SMS text, URL structure, and phone-number formats. The repository contains a starter API and web interface. It is an early prototype, not a production fraud-detection service.
+
+### 02 / Java Basics Practice
+**A hands-on Core Java learning lab**
+
+[Repository: Java-Basics-Practice](https://github.com/parakandlabharath/Java-Basics-Practice) · Java 17
+
+Organized practice for Java fundamentals, OOP, packages, and collections, alongside a console-based Employee Management mini-project. The repository also includes a Java 17 compilation workflow.
+
+### 03 / Java Interface Addition
+**A small exercise in abstraction**
+
+[Repository: Java-Interface-Addition](https://github.com/parakandlabharath/Java-Interface-Addition) · Java
+
+Demonstrates an `Addition` interface with separate integer and long implementations — a focused example of defining a contract and providing different implementations.
+
+### 04 / Online Price Tracker
+**A price-monitoring application concept**
+
+[Repository: Online-price-tracking](https://github.com/parakandlabharath/Online-price-tracking) · Planning stage
+
+The intended direction is to track product prices, target prices, and price history. Application source and verified run instructions are still to be added.
+
+### 05 / Code Quest
+**A collaborative task-management concept**
+
+[Repository: Code-Quest](https://github.com/parakandlabharath/Code-Quest) · Planning stage
+
+A planned Kanban-style workflow for organizing tasks across To Do, In Progress, and Done. The repository documents the current concept and scope.
+
+## How I think about building software
+
+I try to keep the development loop simple and repeatable:
+
+<div align="center">
+
+`UNDERSTAND` → `DESIGN` → `IMPLEMENT` → `TEST` → `DOCUMENT` → `IMPROVE`
+
+</div>
+
+- **Understand:** clarify the problem and who the feature helps.
+- **Design:** identify responsibilities, data, and the flow between components.
+- **Implement:** start with a small working version.
+- **Test:** check expected behavior, invalid input, and edge cases.
+- **Document:** explain setup, decisions, and limitations.
+- **Improve:** make focused changes and record them with meaningful commits.
+
+**Principle:** a small feature that works and can be explained is better than a large feature that only looks complete.
+
+## What I'm learning now
+
+| Focus | Next milestone |
+|---|---|
+| Core Java | Explain fundamentals confidently and solve programs independently |
+| SQL | Build from basic queries to joins, subqueries, and advanced practice |
+| Spring Boot | Create structured REST APIs with validation and error handling |
+| Project engineering | Add persistence, tests, and clear setup instructions |
+| Problem solving | Practise DSA and explain the approach, not just the answer |
+| System design | Understand components, data flow, scalability, and trade-offs |
+
+## Beyond the repository
+
+I believe a good developer portfolio should be more than a list of technologies. It should show curiosity, steady practice, and the ability to explain decisions.
+
+I'm using these repositories to make that progress visible — one understandable improvement at a time.
+
+<div align="center">
+
+[LinkedIn profile](https://www.linkedin.com/in/bharath-kumar-181316296/) &nbsp;·&nbsp; [Send an email](mailto:parakandlabharath@gmail.com) &nbsp;·&nbsp; [Explore all repositories](https://github.com/parakandlabharath?tab=repositories)
+
 ---
 
-*Learn deliberately. Build honestly. Improve continuously.*
+*Curiosity in learning. Clarity in code. Consistency in progress.*
 
 </div>
