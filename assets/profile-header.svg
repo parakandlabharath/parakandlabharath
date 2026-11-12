@@ -1,39 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
 <title id="title">Bharath Kumar — Java Developer</title>
-<desc id="desc">A modern dark developer banner with a glowing BK monogram, Java backend identity and a compact code editor illustration.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131f"/><stop offset=".58" stop-color="#10283a"/><stop offset="1" stop-color="#142b35"/></linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#52e0c4"/><stop offset="1" stop-color="#70a7ff"/></linearGradient>
-  <radialGradient id="halo"><stop stop-color="#37cdb4" stop-opacity=".22"/><stop offset="1" stop-color="#37cdb4" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b8d4e5" stroke-opacity=".055"/></pattern>
-  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
-</defs>
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-<circle cx="180" cy="180" r="190" fill="url(#halo)" filter="url(#soft)"/>
-<path d="M0 315C260 270 420 380 690 310S1030 265 1200 300" fill="none" stroke="#56d8c2" stroke-opacity=".16" stroke-width="2"/>
-<g transform="translate(72 82)">
-  <rect width="176" height="176" rx="38" fill="#0d2635" stroke="url(#accent)" stroke-width="2"/>
-  <rect x="10" y="10" width="156" height="156" rx="30" fill="none" stroke="#c1fff1" stroke-opacity=".12"/>
-  <text x="88" y="113" fill="#f2fffc" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="800" text-anchor="middle" letter-spacing="-5">BK</text>
-  <path d="M35 137H141" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-</g>
-<g font-family="Segoe UI,Arial,sans-serif">
-  <text x="300" y="105" fill="#62dfc8" font-size="16" font-weight="700" letter-spacing="4">JAVA DEVELOPER  /  BACKEND ENGINEERING</text>
-  <text x="296" y="174" fill="#f3f8fb" font-size="53" font-weight="750">Bharath Kumar</text>
-  <text x="300" y="218" fill="#c1d2df" font-size="23">Building a strong foundation. Turning ideas into code.</text>
-  <rect x="300" y="254" width="54" height="4" rx="2" fill="url(#accent)"/>
-  <text x="300" y="291" fill="#91aabd" font-size="14" letter-spacing="2">JAVA  ·  SPRING BOOT  ·  SQL  ·  REST APIs</text>
-</g>
-<g transform="translate(825 66)">
-  <rect width="310" height="226" rx="15" fill="#081722" stroke="#4fd9c0" stroke-opacity=".42"/>
-  <path d="M0 42H310" stroke="#4fd9c0" stroke-opacity=".22"/>
-  <circle cx="22" cy="21" r="5" fill="#f28b82"/><circle cx="42" cy="21" r="5" fill="#f6c76b"/><circle cx="62" cy="21" r="5" fill="#5bd6b2"/>
-  <text x="24" y="78" fill="#6e9ab0" font-family="Consolas,monospace" font-size="13">class Developer {</text>
-  <text x="42" y="111" fill="#9ce8d8" font-family="Consolas,monospace" font-size="13">learn();</text>
-  <text x="42" y="143" fill="#9ce8d8" font-family="Consolas,monospace" font-size="13">build();</text>
-  <text x="42" y="175" fill="#9ce8d8" font-family="Consolas,monospace" font-size="13">improve();</text>
-  <text x="24" y="207" fill="#6e9ab0" font-family="Consolas,monospace" font-size="13">}</text>
-  <path d="M257 92v92" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+<desc id="desc">A minimal navy banner with the name Bharath Kumar and Java Backend Developer subtitle.</desc>
+<rect width="1200" height="300" rx="18" fill="#101b2a"/>
+<rect x="0" y="0" width="8" height="300" rx="4" fill="#55c9b5"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="88" y="124" fill="#f5f7fa" font-size="54" font-weight="700">Bharath Kumar</text>
+  <text x="91" y="174" fill="#b9c7d6" font-size="24">Java Developer  ·  Backend Engineering</text>
+  <rect x="91" y="208" width="64" height="4" rx="2" fill="#55c9b5"/>
 </g>
 </svg>
