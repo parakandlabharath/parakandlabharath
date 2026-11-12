@@ -47,7 +47,7 @@ I'm at the stage where I value **understanding over shortcuts**: I practise conc
     <td width="50%" valign="top">
       <h3>☕ Java Basics Practice</h3>
       <b>Core Java learning lab</b>
-      <p>Organized examples for Java fundamentals, OOP, packages and collections, plus a console Employee Management mini-project and a JDK 17 compilation workflow.</p>
+      <p>Organized examples for Java fundamentals, OOP, packages and collections, plus a console Employee Management mini-project and a JDK 17 compilation workflow. Also includes [System Design notes](https://github.com/parakandlabharath/Java-Basics-Practice/tree/main/docs/system-design) and [Git & GitHub fundamentals](https://github.com/parakandlabharath/Java-Basics-Practice/blob/main/docs/git/GIT_GITHUB_FUNDAMENTALS.md).</p>
       <p><code>Java 17</code> <code>OOP</code> <code>Collections</code></p>
       <a href="https://github.com/parakandlabharath/Java-Basics-Practice">View source and exercises →</a>
     </td>
