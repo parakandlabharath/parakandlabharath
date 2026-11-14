@@ -32,40 +32,57 @@ I'm at the stage where I value **understanding over shortcuts**: I practise conc
 
 <p align="center"><sub>My current learning and project toolkit. The repositories show which technologies are implemented in each project.</sub></p>
 
-## Featured work
+## Featured projects
+
+These repositories contain implemented application code, documented setup steps, and validation workflows. Each README also records the current prototype boundaries and the next engineering improvements.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Mana Suraksha</h3>
       <b>Digital-fraud awareness prototype</b>
-      <p>Explores explainable checks for suspicious SMS text, URL structure and Indian phone-number formats. The repository includes a Core Java analysis module, Spring Boot endpoints and a starter web interface.</p>
+      <p>Checks suspicious SMS text, URL structure and Indian phone-number formats through a Core Java analysis module, Spring Boot endpoints and a starter web interface.</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>JUnit</code></p>
-      <a href="https://github.com/parakandlabharath/Mana-Suraksha">View project and architecture →</a>
-      <p><sub>Prototype in progress. Database integration, report moderation, Telugu localisation and Android support are planned.</sub></p>
+      <a href="https://github.com/parakandlabharath/Mana-Suraksha">Explore source and architecture →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>☕ Java Basics Practice</h3>
-      <b>Core Java learning lab</b>
-      <p>Organized examples for Java fundamentals, OOP, packages and collections, plus a console Employee Management mini-project and a JDK 17 compilation workflow. Also includes [System Design notes](https://github.com/parakandlabharath/Java-Basics-Practice/tree/main/docs/system-design) and [Git & GitHub fundamentals](https://github.com/parakandlabharath/Java-Basics-Practice/blob/main/docs/git/GIT_GITHUB_FUNDAMENTALS.md).</p>
-      <p><code>Java 17</code> <code>OOP</code> <code>Collections</code></p>
-      <a href="https://github.com/parakandlabharath/Java-Basics-Practice">View source and exercises →</a>
+      <h3>🤝 Task Collaboration</h3>
+      <b>Real-time team workspace</b>
+      <p>Kanban, list, calendar and priority views with comments, activity history, WebSocket updates and server-side JSON persistence.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Express</code> <code>WebSocket</code></p>
+      <a href="https://github.com/parakandlabharath/Task-Collaboration">Explore the application →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>➕ Java Interface Addition</h3>
-      <b>A focused abstraction exercise</b>
-      <p>Uses a shared Addition interface with integer and long implementations to practise contracts and implementation classes.</p>
-      <p><code>Java</code> <code>Interfaces</code></p>
-      <a href="https://github.com/parakandlabharath/Java-Interface-Addition">View source →</a>
+      <h3>💸 PricePulse India</h3>
+      <b>Online product price tracker</b>
+      <p>Product watchlists, target prices, dashboard filters, notifications, JSON backup and restore, plus optional AI-assisted shopping guidance.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Express</code></p>
+      <a href="https://github.com/parakandlabharath/Online-price-tracking">Explore the application →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧭 Ideas in progress</h3>
-      <b>Project concepts being developed</b>
-      <p><a href="https://github.com/parakandlabharath/Online-price-tracking">Online Price Tracker</a> — a concept for tracking product prices.</p>
-      <p><a href="https://github.com/parakandlabharath/Code-Quest">Code Quest</a> — a planned Kanban-style task manager.</p>
-      <p><sub>These are planning-stage repositories, not completed applications.</sub></p>
+      <h3>🧩 Code Quest</h3>
+      <b>Gamified coding-practice playground</b>
+      <p>Interactive coding lessons, challenge catalogue, learner rewards, leaderboard and optional AI hints, feedback and challenge generation.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Express</code></p>
+      <a href="https://github.com/parakandlabharath/Code-Quest">Explore the application →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ Java Basics Practice</h3>
+      <b>Core Java learning lab</b>
+      <p>Java fundamentals, OOP, packages, collections, a console Employee Management mini-project, JDK 17 workflow, System Design notes and Git/GitHub fundamentals.</p>
+      <p><code>Java 17</code> <code>OOP</code> <code>Collections</code></p>
+      <a href="https://github.com/parakandlabharath/Java-Basics-Practice">Explore exercises and notes →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>➕ Java Interface Addition</h3>
+      <b>Java abstraction exercise</b>
+      <p>A shared Addition interface with integer and long implementations, practising interface contracts and implementation classes.</p>
+      <p><code>Java</code> <code>Interfaces</code></p>
+      <a href="https://github.com/parakandlabharath/Java-Interface-Addition">Explore source code →</a>
     </td>
   </tr>
 </table>
