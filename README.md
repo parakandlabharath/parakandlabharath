@@ -116,6 +116,13 @@ I keep focused study notes and interview practice in separate repositories so th
       <a href="https://github.com/parakandlabharath/System-Design-Learning">Explore System-Design-Learning →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 DSA Practice</h3>
+      <p>Java 17 practice programs, currently focused on binary search, insertion positions, occurrences, peak elements and median of two sorted arrays.</p>
+      <a href="https://github.com/parakandlabharath/DSA-Practice">Explore DSA-Practice →</a>
+    </td>
+  </tr>
 </table>
 
 ## GitHub activity
