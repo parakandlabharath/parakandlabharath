@@ -34,7 +34,7 @@ I'm at the stage where I value **understanding over shortcuts**: I practise conc
 
 ## Featured projects
 
-These repositories include application prototypes and focused Java exercises. Project scope, setup instructions and automated checks vary by repository; each README describes the current implementation, status and known limitations.
+These repositories include application prototypes and focused Java exercises. Setup instructions and automated checks vary; each README explains its repository's scope and usage, while the larger projects also document status and known limitations.
 
 <table>
   <tr>
