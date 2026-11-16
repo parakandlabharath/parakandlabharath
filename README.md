@@ -34,7 +34,7 @@ I'm at the stage where I value **understanding over shortcuts**: I practise conc
 
 ## Featured projects
 
-These repositories contain implemented application code, documented setup steps, and validation workflows. Each README also records the current prototype boundaries and the next engineering improvements.
+These repositories include application prototypes and focused Java exercises. Project scope, setup instructions and automated checks vary by repository; each README describes the current implementation, status and known limitations.
 
 <table>
   <tr>
