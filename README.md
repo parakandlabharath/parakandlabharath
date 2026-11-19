@@ -3,6 +3,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/bharath-kumar-181316296/">LinkedIn</a> ·
+    <a href="https://parakandlabharath.github.io/bharath-portfolio/">Portfolio</a> ·
     <a href="mailto:parakandlabharath@gmail.com">Email</a> ·
     <a href="https://github.com/parakandlabharath?tab=repositories">Repositories</a>
   </p>
@@ -187,20 +188,25 @@ I'm open to connecting with developers, sharing ideas, and exploring entry-level
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>💼 LinkedIn</b><br/>
       <sub>Professional updates & conversations</sub><br/><br/>
       <a href="https://www.linkedin.com/in/bharath-kumar-181316296/">Connect with me →</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>✉️ Email</b><br/>
       <sub>Questions, feedback & opportunities</sub><br/><br/>
       <a href="mailto:parakandlabharath@gmail.com">Send an email →</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>⌘ GitHub</b><br/>
       <sub>Code, projects & learning progress</sub><br/><br/>
       <a href="https://github.com/parakandlabharath?tab=repositories">Explore my work →</a>
+    </td>
+    <td align="center" width="25%">
+      <b>🌐 Portfolio</b><br/>
+      <sub>Selected work & contact details</sub><br/><br/>
+      <a href="https://parakandlabharath.github.io/bharath-portfolio/">Visit my website →</a>
     </td>
   </tr>
 </table>
